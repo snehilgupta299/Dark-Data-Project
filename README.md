@@ -6,7 +6,7 @@ Using a real-world customer support ticket dataset, this project simulates how o
 
 ---
 
-## 🚀 Business Problem
+## Business Problem
 
 Companies store massive volumes of unstructured data such as support tickets, logs, and emails.  
 Most of this data is never explored, despite containing critical signals about product failures, customer pain points, and operational inefficiencies.
@@ -15,7 +15,7 @@ This project demonstrates how dark data can be transformed into clear, decision-
 
 ---
 
-## 🛠 What I Built
+## What I Built
 
 - Ingested and processed **40,000+ customer support tickets**
 - Cleaned and standardized unstructured text using Python  
@@ -27,7 +27,7 @@ This project demonstrates how dark data can be transformed into clear, decision-
 
 ---
 
-## ⚙️ Challenges & How I Solved Them
+## Challenges & How I Solved Them
 
 **Messy and noisy text data**  
 Customer ticket descriptions contained filler words, placeholders, and inconsistent formatting.  
@@ -44,7 +44,7 @@ These steps improved signal quality and produced business-relevant insights.
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 Top customer problem categories discovered:
 
@@ -58,7 +58,7 @@ Software-related defects were the dominant driver of support volume, indicating 
 
 ---
 
-## 📈 Sample Output
+## Sample Output
 
 ### Python Analysis
 ![Top Issues](images/chart.png)
@@ -68,7 +68,7 @@ Software-related defects were the dominant driver of support volume, indicating 
 
 ---
 
-## 💡 Business Impact
+## Business Impact
 
 - Enables teams to prioritize engineering fixes based on real customer pain  
 - Reduces time spent manually reviewing tickets  
@@ -77,7 +77,7 @@ Software-related defects were the dominant driver of support volume, indicating 
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 Python, Pandas, Excel, Power BI
 
